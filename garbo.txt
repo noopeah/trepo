@@ -17,3 +17,23 @@ another breakthrough in the development process
 of this file
 we are making good progress.
 and now the feature is done. YO MAN. let's celebrate with a pull request. and some conflict resolution
+------------------------------------------------------------------------------------------------------
+again, the head message HEAD
+this is the next part for our training [this line is on develop]
+here we are continuing the development. and, unbeknowst to us, some jerk did something here on a 
+dedicated feature branch
+ and the split =======
+this is the next part for our (interferance :)) training [this line is on develop]
+this is on feature-2 and interferes with the develop branch
+and the source branch :) >>>>>>> feature-2
+------------------------------------------------------------------------------------------------------
+REBASING SECTION TO MAKE ME COMFORTABLE WITH THEM.
+-----------------------------------------------------------------------------------------------------
+change 1
+change 2
+change 3
+change 4
+change 5
+change 6
+change 7
+feature 3 based on develop commit 7 originally, but should be before `change 1` here
