@@ -26,3 +26,10 @@ dedicated feature branch
 this is the next part for our (interferance :)) training [this line is on develop]
 this is on feature-2 and interferes with the develop branch
 and the source branch :) >>>>>>> feature-2
+------------------------------------------------------------------------------------------------------
+REBASING SECTION TO MAKE ME COMFORTABLE WITH THEM.
+-----------------------------------------------------------------------------------------------------
+change 1
+change 2
+change 3
+change 4
