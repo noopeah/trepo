@@ -36,4 +36,4 @@ change 4
 change 5
 change 6
 change 7
-feature 3 based based on develop commit 7 originally, but should be before `change 1` here
+feature 3 based on develop commit 7 originally, but should be before `change 1` here
