@@ -19,3 +19,5 @@ we are making good progress.
 and now the feature is done. YO MAN. let's celebrate with a pull request. and some conflict resolution
 ------------------------------------------------------------------------------------------------------
 this is the next part for our training [this line is on develop]
+here we are continuing the development. and, unbeknowst to us, some jerk did something here on a 
+dedicated feature branch
