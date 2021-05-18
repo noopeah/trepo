@@ -6,8 +6,14 @@ test data
 and here, on develop branch
 we still continue
 to
+this was the HEAD message HEAD
 develop the file. we make some changes to the lines, modified in the f-1 branch
 back on the develop branch
+here were the equals signs ===
+a feature is here
+we need to delete some shit
+and here is the source branch name feature-1
 another breakthrough in the development process
 of this file
 we are making good progress.
+and now the feature is done. YO MAN. let's celebrate with a pull request. and some conflict resolution
