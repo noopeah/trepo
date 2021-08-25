@@ -1,0 +1,9 @@
+this is the config file that contained errors:
+    signing
+    body
+    [1]
+    [2]
+    [3]
+    [4]
+    [5]
+end
