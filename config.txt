@@ -1,0 +1,12 @@
+this is the config file that contained errors:
+    signing
+    body
+    [1]
+    [2]
+    [3]
+    [4]
+        [something added from deevelop]
+        [real hard development is done here]
+        [ooooooooooooooooooh, working hard]
+    [5]
+end
